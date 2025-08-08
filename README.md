@@ -48,3 +48,5 @@ To build a **decentralized, censorship-resistant, and publicly verifiable librar
    aptos move run \
      --function-id '0xc2b08eb4172f34ce3b4c18133bf2f6b190afdbc8fa10ffe589248263e17fd0f8::book_library::create_library' \
      --profile default
+
+<img width="1919" height="721" alt="image" src="https://github.com/user-attachments/assets/b14e4242-3480-4e6d-aa22-afa99710303e" />
