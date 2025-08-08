@@ -1,0 +1,17 @@
+[package]
+name = "FirstAptos"
+version = "1.0.0"
+authors = []
+
+[addresses]
+FirstAptos = "0xc2b08eb4172f34ce3b4c18133bf2f6b190afdbc8fa10ffe589248263e17fd0f8"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
+                
